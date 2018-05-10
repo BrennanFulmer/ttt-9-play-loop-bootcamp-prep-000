@@ -39,7 +39,7 @@ end
 
 def play(board)
   for a in 0...9
-    
+    turn(board)
   end
 end
 

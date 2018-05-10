@@ -39,7 +39,8 @@ end
 
 def play(board)
   for i in 1..9
-end
+    
+  end
 end
 
 

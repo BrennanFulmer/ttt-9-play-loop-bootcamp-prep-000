@@ -38,7 +38,7 @@ end
 # Define your play method below
 
 def play(board)
-  for a in 1..9
+  for a in 0...9
     
   end
 end
